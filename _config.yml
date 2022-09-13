@@ -1,3 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
-title: Decision Tracker homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Decision Tracker
+
+# Aux links for the upper right navigation
+aux_links:
+  "View record on GitHub":
+    - "//github.com/reub-the-cube/decisions"
+aux_links_new_tab: true
