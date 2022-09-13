@@ -1,9 +1,13 @@
 ---
-title: 0001 - use 4 numbers in decision number
+title: Use 4 numbers in decision number
+nav_order: 10
 ---
 
 ### State
 Draft
+
+### Record Id
+0001
 
 # Problem statement
 Describe the issue and why a decision needs to be made.

@@ -4,7 +4,7 @@ nav_order: 1
 ---
 
 # Adding a record
-1. Find out the next ADR number.
+1. Find out the next record id - they are 4 digits and increase by one with each decision in the repository.
 2. Create a new file by copying the template.
 3. Fill out the rest of the template as necessary.
 
