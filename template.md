@@ -1,5 +1,10 @@
+---
+title: Decision record template
+nav_order: 2
+---
+
 ### State
-Draft
+Draft | Proposed | Adopted | Withdrawn | Superceded
 
 # Problem statement
 Describe the issue and why a decision needs to be made.
