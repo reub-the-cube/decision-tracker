@@ -3,7 +3,7 @@ title: Decision Tracker
 
 # Aux links for the upper right navigation
 aux_links:
-  "View record on GitHub":
+  "View repo on GitHub":
     - "//github.com/reub-the-cube/decisions"
 aux_links_new_tab: true
 
