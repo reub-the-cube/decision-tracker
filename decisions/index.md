@@ -1,9 +1,8 @@
 ---
-title: Decision List
+title: Decisions
 has_children: true
 nav_order: 3
-permalink: _decisions
 ---
-# Decision List
+# Decisions
 
 Below, all decision records are listed.
