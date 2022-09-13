@@ -1,6 +1,7 @@
 ---
+parent: Decision list
 title: Use 4 numbers in decision number
-nav_order: 10
+nav_order: 1
 ---
 
 ### State
