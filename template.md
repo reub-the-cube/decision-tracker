@@ -5,6 +5,8 @@ nav_order: 2
 
 ### State
 Draft | Proposed | Adopted | Withdrawn | Superceded
+### Record Id
+4 numbers e.g. 0001 - 9999
 
 # Problem statement
 Describe the issue and why a decision needs to be made.
