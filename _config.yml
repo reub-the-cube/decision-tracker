@@ -3,13 +3,13 @@ title: Decision Tracker
 
 # Aux links for the upper right navigation
 aux_links:
-  "View record on GitHub":
+  "View repo on GitHub":
     - "//github.com/reub-the-cube/decisions"
 aux_links_new_tab: true
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Give this decision some feedback."
+gh_edit_link_text: "Give this page some feedback."
 gh_edit_repository: "https://github.com/reub-the-cube/decision-tracker" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
