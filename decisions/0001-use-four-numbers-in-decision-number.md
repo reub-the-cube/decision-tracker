@@ -1,5 +1,5 @@
 ---
-parent: Decision List
+parent: Decisions
 title: Use 4 numbers in decision number
 nav_order: 1
 ---
