@@ -3,9 +3,6 @@ title: About
 nav_order: 1
 ---
 
-# Decisions
-Repo to test project with GitHub pages for creating and auditing Architectural (or software) Decision Records (ADR).
-
 # Adding a record
 1. Find out the next ADR number.
 2. Create a new file by copying the template.
